@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SistemaVenta.BLL",
+    "\\SistemaVenta.BLL\\Servicios",
+    "\\SistemaVenta.BLL\\Servicios\\Contrato",
+    "\\SistemaVenta.Utility"
+  ],
+  "SelectedNode": "\\SistemaVenta.Utility\\AutoMapperProfile.cs",
+  "PreviewInSolutionExplorer": false
+}
