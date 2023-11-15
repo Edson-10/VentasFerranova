@@ -3813,23 +3813,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EDSON\\.nuget\\packages\\": {},
+    "C:\\Users\\Gamer\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ferranovaVenta\\APISistemaVenta\\SistemaVenta.API\\FERRANOVA.API.csproj",
+      "projectUniqueName": "D:\\GITHUB\\VentasFerranova\\APISistemaVenta\\SistemaVenta.API\\FERRANOVA.API.csproj",
       "projectName": "FERRANOVA.API",
-      "projectPath": "D:\\ferranovaVenta\\APISistemaVenta\\SistemaVenta.API\\FERRANOVA.API.csproj",
-      "packagesPath": "C:\\Users\\EDSON\\.nuget\\packages\\",
-      "outputPath": "D:\\ferranovaVenta\\APISistemaVenta\\SistemaVenta.API\\obj\\",
+      "projectPath": "D:\\GITHUB\\VentasFerranova\\APISistemaVenta\\SistemaVenta.API\\FERRANOVA.API.csproj",
+      "packagesPath": "C:\\Users\\Gamer\\.nuget\\packages\\",
+      "outputPath": "D:\\GITHUB\\VentasFerranova\\APISistemaVenta\\SistemaVenta.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\EDSON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3844,17 +3844,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\ferranovaVenta\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-              "projectPath": "D:\\ferranovaVenta\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+            "D:\\GITHUB\\VentasFerranova\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+              "projectPath": "D:\\GITHUB\\VentasFerranova\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
             },
-            "D:\\ferranovaVenta\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
-              "projectPath": "D:\\ferranovaVenta\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+            "D:\\GITHUB\\VentasFerranova\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+              "projectPath": "D:\\GITHUB\\VentasFerranova\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
             },
-            "D:\\ferranovaVenta\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
-              "projectPath": "D:\\ferranovaVenta\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
+            "D:\\GITHUB\\VentasFerranova\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+              "projectPath": "D:\\GITHUB\\VentasFerranova\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
             },
-            "D:\\ferranovaVenta\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
-              "projectPath": "D:\\ferranovaVenta\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
+            "D:\\GITHUB\\VentasFerranova\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj": {
+              "projectPath": "D:\\GITHUB\\VentasFerranova\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj"
             }
           }
         }
@@ -3897,7 +3897,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

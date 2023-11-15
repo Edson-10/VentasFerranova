@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jp6xFAQA2BJD/+ziso1+5XIUHUNCgV9lRWO9ZU4/qJNrmtq+IPjigHScGmy2WSn3GT0MF2MR2lHbszCdo1d0yA==",
+  "dgSpecHash": "dOOLnMgWeOEkrbwfDT4FlPkbmEF5A4PwB9WMumNioylyjM/c0UsYAcFoHn5yhPLfT/jCrxIImwhBCW4aHvD2OQ==",
   "success": true,
-  "projectFilePath": "D:\\ferranovaVenta\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
+  "projectFilePath": "D:\\GITHUB\\VentasFerranova\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
